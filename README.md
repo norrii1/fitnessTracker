@@ -1,6 +1,6 @@
 
 
-  # Workout Tracker
+  # Fitness Tracker
   ## link: https://frozen-garden-66197.herokuapp.com/
 ## Description
 🔍 
